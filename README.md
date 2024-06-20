@@ -8,7 +8,7 @@ Soy una apasionada desarrolladora interesada en el desarrollo de servidores de M
 
 ### 💡 Intereses
 
-- **Desarrollo de Plugins:** Me encanta crear y mejorar plugins para PocketMine-MP.
+- **Desarrollo de Plugins:** Me encanta crear y mejorar plugins para Spigot,Paper y PocketMine-MP.
 - **Colaboración:** Siempre estoy abierta a colaborar en proyectos relacionados con el desarrollo de servidores de Minecraft.
 - **Aprendizaje Continuo:** Estoy comprometida a aprender y crecer en el campo de la programación.
 
